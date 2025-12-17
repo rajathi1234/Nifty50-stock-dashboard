@@ -1,0 +1,11 @@
+pandas
+pyyaml
+yfinance
+sqlalchemy
+matplotlib
+seaborn
+streamlit
+numpy
+scipy
+python-dotenv
+pytest

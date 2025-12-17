@@ -1,0 +1,42 @@
+# ==============================
+# Python cache & environment
+# ==============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+.env/
+
+# ==============================
+# Data & generated outputs
+# ==============================
+data/
+cleaned/
+analysis_outputs/
+charts/
+reports/
+
+# Database files
+*.db
+
+# ==============================
+# Power BI & Reports
+# ==============================
+*.pbix
+*.pdf
+
+# ==============================
+# IDE / Editor settings
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# OS / Logs
+# ==============================
+.DS_Store
+*.log
