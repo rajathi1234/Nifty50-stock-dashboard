@@ -6,6 +6,7 @@ It downloads stock data, cleans and processes it, stores it in a database, perfo
 
 ## Folder Structure
 
+```text
 Nifty50-stock-dashboard/
 │
 ├── .venv/                     # Python virtual environment (ignored in Git)
@@ -32,14 +33,15 @@ Nifty50-stock-dashboard/
 │   ├── 05_visualize.py
 │   └── 06_streamlit_app.py
 │
-├── utils/                     # Helper modules (e.g., stock list)
+├── utils/                     # Helper modules
 │   └── stock_list.py
 │
 ├── nifty50.db                 # SQLite database (ignored in Git)
-├── Nifty50_Stock_Analysis.pbix # Power BI dashboard file (ignored in Git)
+├── Nifty50_Stock_Analysis.pbix # Power BI dashboard (ignored in Git)
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## Key CSV Files
 
